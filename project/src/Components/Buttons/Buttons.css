@@ -1,0 +1,27 @@
+.block
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+i
+{
+    font-size: 20px;
+  
+}
+span
+{
+      margin-top: 15px;
+}
+.green
+{
+    color: green;
+}
+.yellow
+{
+    color: rgb(168, 168, 41);
+}
+.red
+{
+    color: red;
+}
